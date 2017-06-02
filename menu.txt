@@ -1,0 +1,6 @@
+[*] MENU:
+[1]. Identidades por cosiente
+[2]. Identidades Pitagoricas
+[3]. Identidades Reciprocas
+[4]. Tabla de Derivadas
+[5]. Salir del script
